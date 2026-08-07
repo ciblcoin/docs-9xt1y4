@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-btprpq.juragan89site.store/sitemap.xml
